@@ -121,6 +121,7 @@ View and annotate your data in fullscreen mode and view a 3D rendering of your d
 <br>
 <br>
 </p>
+
 ### Segmentation & annotations
 With BrainBox you can easily modify pre-computed segmentations or create new annotations. You can edit available annotations by paint & fill, (try 'precise cursor' on iPad!), or erase & fill.   
 You will love the undo button :D! You can also upload annotation files & view them overlaid with your MRI data and adjust their opacity for optimally working, or create a new annotation layer or delete one, respectively.   
