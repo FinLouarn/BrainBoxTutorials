@@ -2,6 +2,7 @@
 
 <div id='wrapperToc' data-markdown="1">
 <div id='toc' data-markdown="1">
+
 ## Table of Contents
 
 1. [Introduction](#intro)
@@ -88,6 +89,7 @@
 <br>
 <br>
 </p>
+
 ## 1. Introduction
 
 BrainBox is a web platform to share, visualise and annotate MRI brain data collaboratively. BrainBox will provide the means to create a layer of collaborative annotation over all the available MRI data without having to rely on a centralised data repository or the necessity of having to install software.
