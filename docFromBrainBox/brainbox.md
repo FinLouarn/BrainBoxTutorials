@@ -151,7 +151,7 @@ BrainBox is a web application for real-time collaborative curation, quality cont
 BrainBox allows you to take length measurements, so you can get information about the extension of your region of interest or distances between regions with two clicks. For the time being the values are printed into the chat from where you can copy them.
 
 ###Supported data formats
-Supported data formats: For the moment, BrainBox supports nifti file format. Freesurfer segmentations can be loaded and annotated when having been converted to nifti.
+Supported data formats: For the moment, BrainBox supports [nifti file format](https://nifti.nimh.nih.gov/nifti-1/ "nifti file format"). Freesurfer segmentations can be loaded and annotated when having been converted to nifti.
 
 (?? include ?) Data platforms:  BrainBox already includes links to data from zenodo, figshare, and a few from dropbox, Google Drive, Github, Amazon
 
